@@ -1,7 +1,8 @@
-Git is a widely used, free, and open-source distributed version control system (DVCS) that tracks changes in files and coordinates work among multiple users. It is primarily used for source code management in software development, enabling teams to collaborate efficiently and revert to earlier versions of a project if needed. 
+Git Global Interaction system is a widely used, free, and open-source distributed version control system (DVCS) that tracks changes in files and coordinates work among multiple users. It is primarily used for source code management in software development, enabling teams to collaborate efficiently and revert to earlier versions of a project if needed. 
 Core Concepts
 Repository (Repo): A folder containing all project files and the complete history of changes. Git stores the project's metadata and object database in a hidden .git directory within the project folder.
 Commit: A snapshot of your project at a specific point in time. Each commit has a unique SHA-1 hash identifier, an author, a timestamp, a log message, and a reference to the previous commit(s), creating a traceable history.
 Branch: An independent line of development. Branches allow developers to work on new features or bug fixes in an isolated environment without affecting the main codebase (often named main or master). Branches are lightweight and operations like merging are fast.
 Staging Area (Index): A temporary area where you prepare changes (modified files) to be included in the next commit. This gives granular control over what changes are saved in a snapshot.
 Remote: A version of the repository hosted on an online server (e.g., GitHub, GitLab, Bitbucket). This allows teams to share code and collaborate. 
+Git is in progress

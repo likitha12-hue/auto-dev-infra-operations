@@ -1,0 +1,13 @@
+Key Commands
+The following are some of the most commonly used Git commands: 
+Command 	Description
+git init	Initializes a new local Git repository in the current directory.
+git clone [url]	Creates a local copy of a remote repository from a specified URL.
+git add [file]	Stages changes for the next commit. Can be a specific file or all modified files.
+git commit -m "[message]"	Records the staged changes as a new commit with a descriptive message.
+git status	Shows the status of files as untracked, modified, or staged.
+git branch [name]	Lists, creates, or deletes branches.
+git checkout [branch-name]	Switches to a different branch (in newer Git versions, git switch is an alternative).
+git merge [branch]	Combines the history and changes from one branch into the current branch.
+git pull	Fetches changes from the remote repository and merges them into the local branch.
+git push	Uploads local branch commits to the remote repository.
